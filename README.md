@@ -1,5 +1,6 @@
-# MoodToMusic
-Consulting and Analytics Club, IITG Project
+# multimodal-emotion-to-music-system
+Consulting and Analytics Club,
+presidency university
 
 ### `python app.py`
 
