@@ -11,7 +11,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 On Submitting, a bounding box is drawn, and a list of song recommendations are generated.
 
-![mtm-ui-2](https://user-images.githubusercontent.com/75270052/162983973-6d8bc549-9d51-4c6a-bcc1-6f4b1a82ca8c.PNG)
+![mtm-ui-2](https://user-images.githubusercontent.com/75270052/162983973-6d8bc549-9d51-4c6a-bcc1-6f4b1a82ca8c.PNG).
 
  Clicking any of them opens up the song on spotify.
  
